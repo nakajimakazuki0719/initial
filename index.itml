@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Progate</title>
+    <link rel="stylesheet" href="css/master.css">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+  </head>
+  <body>
+    <ol>
+      <li>saa</li>
+      <li>fff</li>
+      <li>fff</li>
+      <li>fff</li>
+    </ol>
+    <ol start="5">
+      <li>wwww</li>
+    </ol>
+    <hgroup>
+      <h1>hh</h1>
+      <h2>www</h2>
+      <hr>
+
+
+      <h3>wwwww</h3>
+    </hgroup>
+  <dl class="">
+    <dt>aaa</dt>
+    <dd>fff</dd>
+
+  </dl>
+
+    </div>
+    <s>sss</s>
+    <cite>ssss</cite>
+    <q cite="">ssss</q>
+    <div class="">
+      name:<input type="date" name="" value="">
+    </div>
+    <div class="grid">
+      <div class="item">
+        item1
+      </div>
+      <div class="item">
+        item2
+      </div>
+      <div class="item">
+        item3
+      </div>
+
+    </div>
+    <div class="grid2">
+      <div class="item">
+        item1
+      </div>
+      <div class="item">
+        item2
+      </div>
+      <div class="item">
+        item3
+      </div>
+
+    </div>
+    <div class="grid3">
+      <div class="item">
+        item1
+      </div>
+      <div class="item">
+        item2
+      </div>
+      <div class="item">
+        item3
+      </div>
+      <br>
+    <div class="oya">
+     <div class="blue-box">青いボックス</div>
+     <div class="yellow-box">黄色いボックス</div>
+     <div class="green-box">緑のボックス</div>
+     <div class="pink-box">ピンクのボックス</div>
+    </div>
+    <br>
+    <br>
+    <div class="parent">
+      <div class="div1">aa </div>
+      <div class="div2"> </div>
+      <div class="div3"> </div>
+      <div class="div4"> </div>
+      <div class="div5"> </div>
+   </div>
+   <div class="aaa">
+     <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdkr93z_aHM_2Pc2ymIqZb-AKReCH0ZGqH8rcc95MnRYSAubA/viewform?embedded=true" width="640" height="1403" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…</iframe>
+   </div>
+
+
+
+
+
+  </body>
+</html>
